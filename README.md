@@ -42,6 +42,8 @@ In addition to energy imparted from electrostatic acceleration, I will eploy a m
 | ---- | ---- | ---- | ---- |
 | [3.5CFM Rotary Vane Vacuum Pump](https://www.ebay.com/itm/142345178028) | Single stage. 5 Pa ultimate vacuam | 54.65 USD | 7/24-7/28 |
 | [1000kV Generator](https://www.ebay.com/itm/DC-3-6V-6V-Boost-Set-up-to-DC-400kV-High-Voltage-Generator-Power-Module-Tool/133470018966?epid=1862012138&hash=item1f136edd96:g:~AoAAOSwQiJfDXFp) | 3.7-6V 2-5A input | 9.52 USD | 8/4-8/5 |
+| [8.5kV Neon Sign Transformer](https://www.amazon.com/Brand-8-5KV-Transformer-Signs-Supply/dp/B0892Q49YG) | 8.5kV | 29.99 USD | 7/26 |
+| [1200W Positive Displacement Pump](https://www.ebay.com/itm/1200W-Electric-Water-Booster-Pump-Stainless-Steel-Garden-Sprinkler-Pump-Pool/143564978723) | suitable for liquids | 100.90 | 7/27-7/28 | 
 
 
 ## Conclusions and Future Work
