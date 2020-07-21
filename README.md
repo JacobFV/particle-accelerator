@@ -13,6 +13,9 @@ A quick Google query of "fusor" yields dozens of do-it-yourself articles on how 
 - https://www.instructables.com/id/Real-Life-Arc-Reactor-a-Working-Fusion-Reactor-Mod/
   - used a ZVS driver with flyback transformer
   - single vacuam pump
+- https://www.discovermagazine.com/the-sciences/how-to-build-a-usd1000-fusion-reactor-in-your-basement
+  - 20kV 10mA
+  - "A two-stage roughing pump \[...\] Then use a turbo or oil diffusion pump to reach a high vacuum"
   
 All the tutorials stressed the importance of maintaining high chamber vacuam by avoiding fingerprints or other contaminants. For this reason, vacuam pumps do not appear a best choice for second stage chamber evacuation.
 
