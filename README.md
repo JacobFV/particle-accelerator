@@ -15,6 +15,10 @@ The sychrotron seems most appealing to me because its closed path can take advan
 
 ## Design
 
+### First sketches
+
+![front page](img/001.jpg)
+![back page](img/002.jpg)
 
 ## Practical Considerations
 
